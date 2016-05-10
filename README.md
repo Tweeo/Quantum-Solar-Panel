@@ -1,6 +1,6 @@
 # Quantum-Solar-Panel
 Quantum Solar Panel recipe path:
-
+ 
 QUANTUM SOLAR PANEL
 	1x Quantum Core:
 		 4x Nether Star		

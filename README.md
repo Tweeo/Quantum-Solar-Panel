@@ -1,22 +1,21 @@
-	QUANTUM SOLAR PANEL
-1	
-	1x Quantum Core:
-		 4x Nether Star		
-		 1x Eye of Ender
-		 4x Enriched Sunnarium Alloy:
-				16x Enriched Sunnarium(4 each):
-						128x Irradiant Uranium (8 each):
-					 	 16x Sunnarium(1 each):
-								144x Sunnarium Piece(9 each)
-				 4x Sunnarium Alloy(1 each):
-						 32x Reinforced Iridium Plate(8 each):
-								  128x Iridium Ore(8 each)
-								   32x Diamond(1 each)
-								  128x Advanced Alloy(8 each)
-						  4x Sunnarium(1 each):
-								144x Sunnarium Piece(9 each)
-			
-								
+ QUANTUM SOLAR PANEl
+	 1x Quantum Core:
+	 	 4x Nether Star		
+	 	 1x Eye of Ender
+	 	 4x Enriched Sunnarium Alloy:
+	 			16x Enriched Sunnarium(4 each):
+	 					128x Irradiant Uranium (8 each):
+	 				 	 16x Sunnarium(1 each):
+	 							144x Sunnarium Piece(9 each)
+	 			 4x Sunnarium Alloy(1 each):
+	 					 32x Reinforced Iridium Plate(8 each):
+	 							  128x Iridium Ore(8 each)
+	 							   32x Diamond(1 each)
+	 							  128x Advanced Alloy(8 each)
+	 					  4x Sunnarium(1 each):
+	 							144x Sunnarium Piece(9 each)
+	 		
+	 							
 	8x Ultimate Hybrid Solar Panel:						
 		 8x Lapis Lazuli Block(1 each)
 		24x Coal Chunk(3 each):

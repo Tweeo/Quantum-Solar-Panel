@@ -1,7 +1,7 @@
 # Quantum-Solar-Panel
 Quantum Solar Panel recipe path:
 
-Quantum Solar Panel
+QUANTUM SOLAR PANEL
 	1x Quantum Core:
 		 4x Nether Star		
 		 1x Eye of Ender
@@ -17,6 +17,10 @@ Quantum Solar Panel
 								  128x Advanced Alloy(8 each)
 						  4x Sunnarium(1 each):
 								144x Sunnarium Piece(9 each)
+								
+								
+								
+								
 	8x Ultimate Hybrid Solar Panel:						
 		 8x Lapis Lazuli Block(1 each)
 		24x Coal Chunk(3 each):
@@ -34,6 +38,10 @@ Quantum Solar Panel
 								  512x Advanced Alloy(4 each)
 						 16x Sunnarium(4 each):
 								144x Sunnarium Piece(9 each)
+								
+								
+								
+								
 		 8x	Advanced Solar Panel:
 				 16x Advanced Alloy(2 each)
 				 16x Advanced Circuit(2 each)

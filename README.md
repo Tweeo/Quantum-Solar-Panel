@@ -1,4 +1,5 @@
-QUANTUM SOLAR PANEL
+	QUANTUM SOLAR PANEL
+1	
 	1x Quantum Core:
 		 4x Nether Star		
 		 1x Eye of Ender

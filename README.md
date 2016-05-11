@@ -1,4 +1,4 @@
-QUANTUM SOLAR PANEL
+	QUANTUM SOLAR PANEL
 	1x Quantum Core:
 		 4x Nether Star		
 		 1x Eye of Ender
@@ -50,7 +50,7 @@ QUANTUM SOLAR PANEL
 						  8x Generator
 						  
 
-Total Cost:
+	Total Cost:
 		656x Advanced Alloy
 		640x Iridium Ore
 		576x Sunnarium Piece

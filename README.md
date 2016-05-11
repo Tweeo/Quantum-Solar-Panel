@@ -1,21 +1,21 @@
- QUANTUM SOLAR PANEl
-	 1x Quantum Core:
-	 	 4x Nether Star		
-	 	 1x Eye of Ender
-	 	 4x Enriched Sunnarium Alloy:
-	 			16x Enriched Sunnarium(4 each):
-	 					128x Irradiant Uranium (8 each):
-	 				 	 16x Sunnarium(1 each):
-	 							144x Sunnarium Piece(9 each)
-	 			 4x Sunnarium Alloy(1 each):
-	 					 32x Reinforced Iridium Plate(8 each):
-	 							  128x Iridium Ore(8 each)
-	 							   32x Diamond(1 each)
-	 							  128x Advanced Alloy(8 each)
-	 					  4x Sunnarium(1 each):
-	 							144x Sunnarium Piece(9 each)
-	 		
-	 							
+QUANTUM SOLAR PANEL
+	1x Quantum Core:
+		 4x Nether Star		
+		 1x Eye of Ender
+		 4x Enriched Sunnarium Alloy:
+				16x Enriched Sunnarium(4 each):
+						128x Irradiant Uranium (8 each):
+					 	 16x Sunnarium(1 each):
+								144x Sunnarium Piece(9 each)
+				 4x Sunnarium Alloy(1 each):
+						 32x Reinforced Iridium Plate(8 each):
+								  128x Iridium Ore(8 each)
+								   32x Diamond(1 each)
+								  128x Advanced Alloy(8 each)
+						  4x Sunnarium(1 each):
+								144x Sunnarium Piece(9 each)
+			
+								
 	8x Ultimate Hybrid Solar Panel:						
 		 8x Lapis Lazuli Block(1 each)
 		24x Coal Chunk(3 each):
@@ -25,7 +25,7 @@
 			     64x Enriched Sunnarium(4 each):
 						128x Irradiant Uranium(8 each)
 					 	 16x Sunnarium(1 each):
-								576x Sunnarium Piece(9 each)
+								144x Sunnarium Piece(9 each)
 				 16x Sunnarium Alloy(1 each):
 						128x Reinforced Iridium Plate(8 each):
 								  512x Iridium Ore(4 each)
@@ -46,6 +46,24 @@
 				  8x Solar Panel:
 						 24x Coal Dust
 						 24x Glass
-						  2x Circuit
-						  1x Generator
+						 16x Circuit
+						  8x Generator
+						  
+
+Total Cost:
+		656x Advanced Alloy
+		640x Iridium Ore
+		576x Sunnarium Piece
+		264x Irradiant Uranium
+		192x Compressed Coal Ball
+		160x Diamond
+		 24x Obsidian
+		 24x Reinforced Glass
+		 24x Coal Dust (not including coal dust used for compressed coal ball)
+		 24x Glass (not including glass used for reinforced glass)
+		 16x Advanced Circuit
+		 16x Circuit (not including circuits used for advanced circuits)
+		  8x Irradiant Reinforced Plate
+		  8x Generator
+		  4x Glowstone Dust
 				  
